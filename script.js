@@ -1,4 +1,4 @@
-const apiKey = '-E7nWnmsIUhhtkocOf2PCbHNyKAR_6Z2BoXnlHLK5hk';
+const apiKey = '/key.env';
 const imageElement = document.getElementById('slideshow-image');
 
 async function fetchRandomImage() {
